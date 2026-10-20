@@ -2,7 +2,7 @@
 
 # Vahid Rahmani, Ph.D.
 
-**Research Scientist · Scientific AI · LLM Applications · Imaging & Intelligent Systems**
+**Research Scientist | Computational Imaging & AI | Image Reconstruction | Scientific Software Engineering**
 
 Deutsches Elektronen-Synchrotron (DESY) · Hamburg, Germany
 
@@ -16,11 +16,13 @@ Deutsches Elektronen-Synchrotron (DESY) · Hamburg, Germany
 
 ### About me
 
-I am a researcher and scientific AI and software developer with a **Ph.D. in Computer Science (Artificial Intelligence)**. My work connects **machine learning, Scientific image analysis, and high-performance computing** to real problems in scientific instrumentation and data-intensive research.
+I am a **Senior AI Research Scientist and Scientific Software Engineer** with a **Ph.D. in Computer Science (Artificial Intelligence)**, specializing in **AI-driven computational imaging, deep learning, image reconstruction, and high-performance scientific computing.**
 
-At DESY, I have worked on software for **X-ray imaging, holography, serial crystallography, and large-scale scientific data processing**. I also have a background in **hierarchical pathfinding and multi-agent systems**.
+At **DESY (Deutsches Elektronen-Synchrotron)**, my research focuses on developing advanced algorithms and software for **X-ray imaging, image reconstruction, phase retrieval, image denoising, and large-scale scientific data processing**. I combine **imaging physics, classical computational methods, and deep learning** to address challenging imaging and inverse problems, with particular attention to **image quality, structural fidelity, computational efficiency, and robust reconstruction**.
 
-My focus is on translating research ideas into **clear, testable, and practical software**—from deep-learning models and imaging pipelines to **LLM-powered research tools**, accelerated C++ implementations, and multi-agent systems.
+My expertise spans the full research and development workflow, from **algorithm design and mathematical modeling** to **Python/C++ implementation, GPU/FPGA acceleration, quantitative evaluation, and reproducible scientific software**. Beyond scientific imaging, I have worked on **computer vision, hierarchical pathfinding, multi-agent systems, and LLM-powered research applications**.
+
+I am particularly passionate about bridging **fundamental research and practical engineering**, transforming innovative ideas into **reliable, efficient, and scalable imaging solutions**.
 
 ### Areas of expertise
 
