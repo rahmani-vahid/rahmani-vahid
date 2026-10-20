@@ -39,12 +39,6 @@ My work spans **scientific imaging**, **LLM-powered applications**, **hardware a
 
 **Public code** is linked directly. For internal or collaborative projects, I describe the technical work without sharing restricted source code or research data.
 
-#### AI applications, LLMs & knowledge systems
-
-| Project | Focus | Technologies / status |
-| :--- | :--- | :--- |
-| **[MeetMind — AI Research Meeting Assistant](https://github.com/rahmani-vahid/MeetMind)** | End-to-end meeting intelligence for scientific teams: speech transcription, speaker diarization, meeting summarization, semantic retrieval, and interactive Q&A grounded in meeting content. Designed to make technical discussions and decisions easier to revisit. | **Python · FastAPI · Whisper · LLMs · RAG · Vector Search** · *Research project; source not publicly released* |
-
 #### Scientific imaging, machine learning & crystallography
 
 | Project | Focus | Technologies / status |
@@ -65,6 +59,12 @@ My work spans **scientific imaging**, **LLM-powered applications**, **hardware a
 | :--- | :--- | :--- |
 | **[MP-FAST-FPGA](https://github.com/rahmani-vahid/MP-FAST-FPGA)** | FPGA-oriented C++ implementation of the MP-FAST image-feature algorithm, with ring-buffer-based processing and memory-access optimizations using the Vitis development workflow. | C++ · FPGA · AMD/Xilinx Vitis · HLS |
 | **Scientific Detector Data Processing** | Parallel data-processing and acceleration work for photon-science detector workflows, including CPU, GPU and FPGA approaches. | C++ · Python · CUDA · Parallel Computing · *Research work* |
+
+#### AI applications, LLMs & knowledge systems
+
+| Project | Focus | Technologies / status |
+| :--- | :--- | :--- |
+| **[MeetMind — AI Research Meeting Assistant](https://github.com/rahmani-vahid/MeetMind)** | End-to-end meeting intelligence for scientific teams: speech transcription, speaker diarization, meeting summarization, semantic retrieval, and interactive Q&A grounded in meeting content. Designed to make technical discussions and decisions easier to revisit. | **Python · FastAPI · Whisper · LLMs · RAG · Vector Search** · |
 
 #### Pathfinding, multi-agent systems & robotics
 
