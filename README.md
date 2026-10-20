@@ -4,7 +4,7 @@
 
 **Research Scientist · Scientific AI · LLM Applications · Imaging & Intelligent Systems**
 
-DESY Photon Science · Hamburg, Germany
+Deutsches Elektronen-Synchrotron (DESY) · Hamburg, Germany
 
 [![GitHub](https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rahmani-vahid?tab=repositories)
 [![Research](https://img.shields.io/badge/Research-Publications-2563EB?style=for-the-badge)](#selected-publications)
@@ -41,7 +41,7 @@ My work spans **scientific imaging**, **LLM-powered applications**, **hardware a
 
 | Project | Focus | Technologies / status |
 | :--- | :--- | :--- |
-| **MeetMind — AI Research Meeting Assistant** | End-to-end meeting intelligence for scientific teams: speech transcription, speaker diarization, meeting summarization, semantic retrieval, and interactive Q&A grounded in meeting content. Designed to make technical discussions and decisions easier to revisit. | **Python · FastAPI · Whisper · LLMs · RAG · Vector Search** · *Research project; source not publicly released* |
+| **[MeetMind — AI Research Meeting Assistant](https://github.com/rahmani-vahid/MeetMind)** | End-to-end meeting intelligence for scientific teams: speech transcription, speaker diarization, meeting summarization, semantic retrieval, and interactive Q&A grounded in meeting content. Designed to make technical discussions and decisions easier to revisit. | **Python · FastAPI · Whisper · LLMs · RAG · Vector Search** · *Research project; source not publicly released* |
 
 #### Scientific imaging, machine learning & crystallography
 
